@@ -1,0 +1,15 @@
+{
+  "name": "Grupo WhatsApp",
+  "short_name": "ZapGrupo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Acesso direto ao grupo do WhatsApp",
+  "icons": [
+    {
+      "src": "https://www.svgrepo.com/show/176768/whatsapp-social-media.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
